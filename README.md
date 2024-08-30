@@ -7,7 +7,7 @@ No commercial use is authorized.
 
 This is a set of aids to play the celo.
 
-## Box aid
+## Bow aid
 
 bow_x folders contain several iteration of a device to help hold the bow.
 
