@@ -5,7 +5,7 @@ Check the license file.
 
 No commercial use is authorized.
 
-This is a set of aids to play the celo.
+This is a set of aids to play the cello.
 
 ## Bow aid
 
