@@ -1,6 +1,8 @@
 Unfortunately the silicon is too heavy, adding about 60g 
+
 This new prototype is intended to be completed by thermo-plastic tightely adjusted around finger and thumb.
-Therfore the finger and thumb slots were removed.
+
+Therefore the finger and thumb slots were removed.
 
 One challenge was to replace the low screw since it had to be removed.
 
