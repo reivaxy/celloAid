@@ -20,8 +20,18 @@ shell_3 has a bendable finger to press on the bow
 
 bow_x folders contain several iteration of a device to help hold the bow.
 
-bow_4 has adjustable finger positions and a choice of various finger sizes, as well as sliding pivot for the hand additional finger.
+bow_3 and bow_4 have adjustable finger positions and a choice of various finger sizes.
+
+<img src="https://github.com/reivaxy/celloAid/blob/main/bow_3/20240911_081344.jpg" width="640px">
 
 <img src="https://github.com/user-attachments/assets/0542f275-237b-4e93-a34a-2e01e5b5d7b0" width="640px">
 
 <img src="https://github.com/user-attachments/assets/7dd08972-4e73-4a83-beb7-b480ff32ac18" width="640px">
+
+<img src="https://github.com/user-attachments/assets/7f5300ff-20c3-4a19-bcc2-4a185485f611" width="640px">
+
+<img src="https://github.com/user-attachments/assets/e2b7687f-056a-41b2-bda0-eae1649f7c1f" width="640px">
+
+<img src="https://github.com/user-attachments/assets/2ffc588d-e79b-4c75-86fc-afe4fb811442" width="640px">
+
+<img src="https://github.com/user-attachments/assets/8532d225-668c-46ff-9127-0fb31da8f6b6" width="640px">
