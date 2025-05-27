@@ -8,3 +8,4 @@ One challenge was to replace the low screw since it was on the removed thumb slo
 
 https://github.com/user-attachments/assets/684633d8-5a87-4853-8fdd-56d3ae45e7c3
 
+![20250112_164410](https://github.com/user-attachments/assets/0545fb7a-5fd2-4f39-811b-19341ddf8281)
